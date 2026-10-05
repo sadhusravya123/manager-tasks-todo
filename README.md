@@ -1,10 +1,6 @@
 
----
 
-Manager Task Assignment
-
-```markdown
-# Manager Task Assignment
+## Manager Task Assignment
 
 ## Aim
 To develop a React application for assigning tasks to team members.
